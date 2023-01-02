@@ -49,26 +49,3 @@
 font-size: 15px;
 }
 
-@media (max-width:991px){
-
-    html{
-        font-size: 55%;
-    }
-}
-
-@media (max-width:768px){
-
-    #b1, #b2, #b3, #b4, #b5,
-	#b6, #b7, #b8, #b9 {
-		width: 60px;
-		height: 42px;
-    background-color:powderblue;
-		margin: auto;
-    color:orange;
-		border: 2px solid orange;
-		border-radius: 1px;
-		font-size: 20px;
-		text-align: center;
-	}
-
-}
